@@ -1,0 +1,1 @@
+A basic js contact form, no data is stored as privacy is respected for security reasons
